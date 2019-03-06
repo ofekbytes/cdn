@@ -1,0 +1,39 @@
+
+=== cdn_noSql ===
+
+1.pouchdb
+
+.
+.
+1. pouchdb - cdn
+
+<!--
+https://pouchdb.com/download.html
+https://cdnjs.com/libraries/pouchdb
+-->
+
+stable versions:
+6.1.0, 6.07, 6.06, 6.05...
+
+<!-- pouchdb 6.1.0 - cdn -->
+https://cdnjs.cloudflare.com/ajax/libs/pouchdb/6.1.0/pouchdb.js
+
+https://cdnjs.cloudflare.com/ajax/libs/pouchdb/6.1.0/pouchdb.min.js
+
+
+https://cdn.jsdelivr.net/npm/pouchdb@6.1.0/dist/pouchdb.js
+
+https://cdn.jsdelivr.net/npm/pouchdb@6.1.0/dist/pouchdb.min.js
+
+
+<!-- pouchdb 7.0.0 - cdn -->
+
+https://cdn.jsdelivr.net/npm/pouchdb@7.0.0/dist/pouchdb.min.js
+
+https://cdn.jsdelivr.net/npm/pouchdb@7.0.0/dist/pouchdb.js
+
+<script src="//cdn.jsdelivr.net/npm/pouchdb@7.0.0/dist/pouchdb.min.js"></script>
+<script>
+  var db = new PouchDB('my_database');
+</script>
+

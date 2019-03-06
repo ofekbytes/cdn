@@ -1,0 +1,19 @@
+
+.
+.
+<<[components_example]>>>
+
+
+<!-- angular -->
+
+https://docs.angularjs.org/guide/component
+
+https://angular-ui.github.io/
+
+
+<!-- pouchdb -->
+https://pouchdb.com/download.html
+
+
+<!-- jquery -->
+https://code.jquery.com/jquery/
