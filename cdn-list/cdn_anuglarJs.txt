@@ -4,6 +4,13 @@
 
 https://code.angularjs.org/
 
+//1.7.8//
+https://ajax.googleapis.com/ajax/libs/angularjs/1.7.8/
+
+https://ajax.googleapis.com/ajax/libs/angularjs/1.7.8/angular.min.js
+
+
+
 //1.7.7//
 https://code.angularjs.org/1.7.7/
 
